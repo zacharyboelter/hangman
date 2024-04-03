@@ -1,0 +1,25 @@
+{
+  "categories": {
+    "Animals": [
+      "dog",
+      "cat",
+      "elephant",
+      "penguin",
+      "giraffe"
+    ],
+    "Fruits": [
+      "apple",
+      "banana",
+      "mango",
+      "orange",
+      "strawberry"
+    ],
+    "Countries": [
+      "Canada",
+      "France",
+      "Japan",
+      "Brazil",
+      "Australia"
+    ] 
+  }
+}
